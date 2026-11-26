@@ -31,7 +31,7 @@ SNS投稿用の画像置き場と、毎週の投稿作業の手順書です。
   - フォント：`npm install @fontsource/zen-maru-gothic @fontsource/klee-one` を入れて CSS で読み込む
     （見出し＝Zen Maru Gothic 700/900、手書き風＝Klee One 600）。
   - マスコット・はなまる・星・ハート：`tools/brand.py`（`mascot("rabbit"|"bear"|"chick"|"cat")`, `hanamaru()`, `star()`, `heart()`）。
-  - 商品の見本：`assets/product/`（BOOTH商品画像）、`assets/pages/`（ページの縮小画像）。
+  - 商品の見本：ひらがな版 `assets/product/`・`assets/pages/`、カタカナ版 `assets/product_katakana/`・`assets/pages_katakana/`（BOOTH商品画像とページの縮小画像）。
 - デザインの約束
   - 色：ミント `#DFF3EC`、白、こげ茶の文字 `#5B4636`、はなまるの赤 `#EF5B5B`、えんぴつの線の緑 `#3AA889`、
     パステル（ピンク `#F28FA8`・オレンジ `#F6A65A`・黄 `#FFD45C`・水色 `#6FA8DC`）。
